@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">RajawaliCardboard</string>
 
-    <string name="str_ok">确定</string>
-    <string name="str_cancel">取消</string>
-    <string name="exit_alert">确认退出吗？</string>
+    <string name="str_ok">YES</string>
+    <string name="str_cancel">NO</string>
+    <string name="exit_alert">Are you exit?</string>
 </resources>

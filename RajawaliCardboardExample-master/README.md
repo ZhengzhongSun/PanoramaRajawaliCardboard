@@ -2,6 +2,8 @@
 
 Example project for integration [Rajawali](https://github.com/Rajawali/Rajawali) and [Cardboard SDK](https://developers.google.com/cardboard/android/).
 
+![image](http://ejeinc.github.io/RajawaliCardboardExample/image.jpg)
+
 Sample photo is from http://eje-c.com/vr_promotion/.
 
 There are 3 modules in this project.
