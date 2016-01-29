@@ -10,7 +10,7 @@ import android.view.View;
 import android.widget.Button;
 
 /**
- * Created by p300 on 2015/9/12.
+ * Created by Dobbie on 2015/9/12.
  */
 public class HomeActivity extends Activity implements View.OnClickListener {
     Button Button1 = null;

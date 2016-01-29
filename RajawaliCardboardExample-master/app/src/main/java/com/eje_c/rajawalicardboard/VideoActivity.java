@@ -8,7 +8,7 @@ import org.rajawali3d.cardboard.RajawaliCardboardRenderer;
 import org.rajawali3d.cardboard.RajawaliCardboardView;
 
 /**
- * Created by p300 on 2015/9/12.
+ * Created by Dobbie on 2015/9/12.
  */
 public class VideoActivity extends CardboardActivity{
 

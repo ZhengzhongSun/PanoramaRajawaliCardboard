@@ -6,6 +6,9 @@ import android.os.Handler;
 
 import com.google.vrtoolkit.cardboard.CardboardActivity;
 
+/**
+ * Created by Dobbie on 2015/9/12.
+ */
 public class MainActivity extends CardboardActivity {
 
     @Override

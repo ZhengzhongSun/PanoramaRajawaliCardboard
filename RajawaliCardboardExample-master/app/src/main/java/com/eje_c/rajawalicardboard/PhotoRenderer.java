@@ -10,7 +10,7 @@ import org.rajawali3d.math.vector.Vector3;
 import org.rajawali3d.primitives.Sphere;
 
 /**
- * Created by p300 on 2015/9/12.
+ * Created by Dobbie on 2015/9/12.
  */
 public class PhotoRenderer extends RajawaliCardboardRenderer{
     public PhotoRenderer(Context context) {
